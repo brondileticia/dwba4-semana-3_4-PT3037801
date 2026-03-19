@@ -12,23 +12,6 @@ Site institucional com informações sobre o IFSP Câmpus Pirituba, incluindo cu
 - CSS3
 - Favicon
 
-## 📁 Estrutura de Pastas
-projeto-ifsp/
-│
-├── index.html (Página Principal)
-├── cursos.html (Página de Cursos)
-├── sobre.html (Página Sobre)
-├── README.md
-├── favicon.ico
-│
-├── css/
-│ └── style.css (Estilos do site)
-│
-├── img/ (Imagens do projeto)
-│
-└── audio/ (Arquivos de áudio)
-
-
 ## 🎯 Funcionalidades Implementadas
 
 ### Aula 03 - Primeiros Passos
