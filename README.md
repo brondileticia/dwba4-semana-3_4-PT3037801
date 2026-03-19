@@ -75,7 +75,7 @@ O projeto utiliza uma paleta de cores moderna e institucional:
 
 ## 🔗 Links Importantes
 
-- [Instagram do Câmpus Pirituba](https://www.instagram.com/ifspirituba/)
+- [Instagram do Câmpus Pirituba](https://www.instagram.com/ifspcampuspirituba/)
 - [Biblioteca virtual](https://plataforma.bvirtual.com.br/)
 
 ## 📱 Responsividade
